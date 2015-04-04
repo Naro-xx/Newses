@@ -1,0 +1,16 @@
+by\news\NewsesDao.class
+by\news\databaceDAO\UserDAO.class
+by\news\databaceDAO\BaseDao.class
+by\news\databaceDAO\util\HibernateUtil.class
+by\news\databaceDAO\DAOImpl\NewsDAOImpl.class
+by\news\entity\User.class
+by\news\constance\DaoMark.class
+by\news\Main.class
+by\news\entity\NewsCategory.class
+by\news\constance\Constance.class
+by\news\databaceDAO\Dao.class
+by\news\databaceDAO\CategoryDAO.class
+by\news\databaceDAO\DAOImpl\CategoryDAOImpl.class
+by\news\entity\News.class
+by\news\databaceDAO\DAOImpl\UserDAOImpl.class
+by\news\databaceDAO\NewsDAO.class
